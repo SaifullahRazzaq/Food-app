@@ -1,0 +1,167 @@
+ /* html
+{
+  height:100%;
+  background: url('./Images/bg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}  */
+
+
+ul 
+{
+  display: inline;
+  display: flex;
+  flex-wrap: nowrap;
+  float: right;
+
+
+  
+}
+ul li
+{
+  display: inline;
+  display: flex;
+  flex-wrap: nowrap;
+  float: right;
+  color: white;
+}
+ul li a
+{
+  display: inline;
+  display: flex;
+  flex-wrap: nowrap;
+  float: right;
+  padding: 8px;
+   color:white;
+}
+.dash ul li a
+{
+  text-align: right;
+  
+}
+body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}
+
+.form-heading { color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+.panel p { color:#777777; font-size:14px; margin-bottom:05px; line-height:15px;}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-primary {
+  background: #f0ad4e none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background: #ff9900 none repeat scroll 0 0;
+}
+.back { text-align: left; margin-top:10px;}
+.back a {color: #444444; font-size: 1px;}
+
+#custom-search-input{
+  padding: 3px;
+  border: solid 1px #E4E4E4;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+#custom-search-input input{
+  border: 0;
+  box-shadow: none;
+}
+
+#custom-search-input button{
+  margin: 2px 0 0 0;
+  background: none;
+  box-shadow: none;
+  border: 0;
+  color: #666666;
+  padding: 0 8px 0 10px;
+  border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+  border: 0;
+  box-shadow: none;
+  border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+  font-size: 23px;
+}
+.Add
+{
+  text-align: center;
+}
+.Add h1
+{
+  background-color: #D70F64;
+  color: white;
+  border: 2px solid #D70F64;
+}
+
+.card
+{
+  width: 312px;
+  height: 370px;
+  border: 1px solid #c3c3c3;
+  display: -webit-flex; /* Safari */
+  -webkit-flex-flow: row-reverse wrap; /* Safari 6.1+ */
+  display: flex;
+  float: left;
+  flex-flow: row-reverse wrap;
+  text-align: center;
+}
+.card p 
+{
+  color: white;
+  background-color: #D70F64;
+}
+.card p button
+{
+  color:white;
+  border: 2px solid  #D70F64;
+  background-color: #D70F64;
+}
+.Req h2
+{
+  background-color: #007BFF;
+  border:2px solid #007BFF;
+  color: white;
+}
+
